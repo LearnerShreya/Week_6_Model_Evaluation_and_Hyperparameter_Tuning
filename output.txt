@@ -1,0 +1,44 @@
+
+=========================
+Model Performance Summary
+==========================
+
+Model: Tuned Decision Tree
+Accuracy : 0.8202
+Precision: 0.7606
+Recall   : 0.7826
+F1 Score : 0.7714
+
+Model: Logistic Regression
+Accuracy : 0.7865
+Precision: 0.7067
+Recall   : 0.7681
+F1 Score : 0.7361
+
+Model: Random Forest
+Accuracy : 0.7697
+Precision: 0.6892
+Recall   : 0.7391
+F1 Score : 0.7133
+
+Model: Tuned Random Forest
+Accuracy : 0.7697
+Precision: 0.7000
+Recall   : 0.7101
+F1 Score : 0.7050
+
+Model: Decision Tree
+Accuracy : 0.7528
+Precision: 0.6623
+Recall   : 0.7391
+F1 Score : 0.6986
+
+Model: Support Vector Machine
+Accuracy : 0.6854
+Precision: 0.7097
+Recall   : 0.3188
+F1 Score : 0.4400
+
+===============================
+Best Model: Tuned Decision Tree
+===============================
